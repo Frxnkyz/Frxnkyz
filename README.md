@@ -1,5 +1,6 @@
 ### Hi there 👋, Im FrxnkyZ 🏍️
-**I am a student of web application development. I'm from Málaga, Spain.**
+ I'm from Málaga, Spain.
+**I am a student of web application development.**
 
 **→Status:** 
 Studing Web application development on CPIFP "NUEVO" (desglose IES Campanillas)
@@ -12,3 +13,6 @@ Studing Web application development on CPIFP "NUEVO" (desglose IES Campanillas)
  
  **→Goals :**
 Become a Junior Web applicatuin developer.
+
+
+**→Languages:**
