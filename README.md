@@ -1,6 +1,7 @@
 ### Hi there 👋, Im FrxnkyZ 🏍️
- I'm from Málaga, Spain.
-**I am a student of web application development.**
+I'm from Málaga, Spain.
+
+I`m currently studying WEB APPLICATION DEVELOPMENT at the CPIFP Nuevo Institute in Campanillas, Málaga.
 
 **→Status:** 
 Studing Web application development on CPIFP "NUEVO" (desglose IES Campanillas)
