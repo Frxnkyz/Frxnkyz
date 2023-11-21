@@ -1,10 +1,10 @@
 ### Hi there 👋, Im FrxnkyZ 🏍️
 I'm from Málaga, Spain.
 
-I`m currently studying WEB APPLICATION DEVELOPMENT at the CPIFP Nuevo Institute in Campanillas, Málaga.
+I`m currently studying WEB APPLICATION DEVELOPMENT at the CPIFP Alan Turing , Málaga Tech Park.
 
 **→Status:** 
-Studing Web application development on CPIFP "NUEVO" (desglose IES Campanillas)
+Studing Web application development on CPIFP Alan Turing
 
 
 **→About me :**
@@ -13,7 +13,7 @@ Studing Web application development on CPIFP "NUEVO" (desglose IES Campanillas)
 
  
  **→My Goals :**
- To Become a Web application developer.
+ To Become a Web application developer and Front-end developer.
 
 
 
