@@ -1,4 +1,4 @@
-### Hi there 👋, Im FrxnkyZ 🏍️
+### Hi there 👋, Im Fran🏍️
 I'm from Málaga, Spain.
 
 I`m currently studying WEB APPLICATION DEVELOPMENT at the CPIFP Alan Turing , Málaga Tech Park.
