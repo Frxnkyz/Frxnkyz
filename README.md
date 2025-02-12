@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Fran🏍️
 I'm from Málaga, Spain.
 
-I`m currently studying WEB APPLICATION DEVELOPMENT at the CPIFP Alan Turing , Málaga Tech Park.
+I`m currently studying 2nd year of WEB APPLICATION DEVELOPMENT at the CPIFP Alan Turing , Málaga Tech Park.
 
 **→Status:** 
 Studing Web application development on CPIFP Alan Turing
