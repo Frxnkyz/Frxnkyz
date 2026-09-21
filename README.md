@@ -13,7 +13,7 @@ Studing Web application development on Medac Davante
 
  
  **→My Goals :**
- To Become a Web application developer and CiberSecurity.
+ To Become a Web application developer and do CiberSecurity.
 
 
 
